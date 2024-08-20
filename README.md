@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 E-mail: rusiwang@tongji.edu.cn
 - 🏫 Education:
--       09/2024～present  Ph.D. student in Urban Mobility, College of Transportation, Tongji University, Shanghai, China.
+       09/2024～present  Ph.D. student in Urban Mobility, College of Transportation, Tongji University, Shanghai, China.
 -       09/2021～05/2024  M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China.
 -       09/2017～07/2021  B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Électronic Science and Technology of China, Chengdu, China.
 -       09/2019～02/2020  Visiting undergraduate student awarded by China Scholarship Council, No.201906077013, LISITE Lab, Insitut Supérieur d'Electronique de Paris, Paris, France.
